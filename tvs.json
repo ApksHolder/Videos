@@ -3,72 +3,85 @@
     "name": "CCTV",
     "tvs": [
       {
-        "name": "CCTV-1 综合 (FHD)",
-        "url": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8"
+        "name": "CCTV 4K",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8",
+        "url_4k": "http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8"
       },
       {
-        "name": "CCTV-2 财经 (FHD)",
-        "url": "http://223.110.245.170/ott.js.chinamobile.com/PLTV/3/224/3221227207/index.m3u8"
+        "name": "CCTV-1 综合",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000210103.m3u8"
       },
       {
-        "name": "CCTV-3 综艺 (FHD)",
-        "url": "http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8"
+        "name": "CCTV-2 财经",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203603.m3u8"
       },
       {
-        "name": "CCTV-4 中文国际 (FHD)",
-        "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8"
+        "name": "CCTV-3 综艺",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203803.m3u8"
       },
       {
-        "name": "CCTV-5 体育 (FHD)",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8"
+        "name": "CCTV-4 中文国际",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204803.m3u8"
       },
       {
-        "name": "CCTV-5+ 体育赛事 (FHD)",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8"
+        "name": "CCTV-5 体育",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205103.m3u8"
       },
       {
-        "name": "CCTV-6 电影 (FHD)",
+        "name": "CCTV-5+ 体育赛事",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204503.m3u8"
+      },
+      {
+        "name": "CCTV-6 电影",
         "url": "http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8"
       },
       {
-        "name": "CCTV-7 国防军事 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8"
+        "name": "CCTV-7 国防军事",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000510003.m3u8"
       },
       {
-        "name": "CCTV-8 电视剧 (FHD)",
-        "url": "http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8"
+        "name": "CCTV-8 电视剧",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203903.m3u8"
       },
       {
-        "name": "CCTV-9 记录 (FHD)",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8"
+        "name": "CCTV-9 记录",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000499403.m3u8"
       },
       {
-        "name": "CCTV-10 科教 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8"
+        "name": "CCTV-10 科教",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000203503.m3u8"
       },
       {
-        "name": "CCTV-11 戏曲 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8"
+        "name": "CCTV-11 戏曲",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204103.m3u8"
       },
       {
-        "name": "CCTV-12 社会与法 (FHD)",
-        "url": "http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8"
+        "name": "CCTV-12 社会与法",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000202603.m3u8"
       },
       {
         "name": "CCTV-13 新闻",
-        "url": "http://223.110.245.171/PLTV/3/224/3221225560/index.m3u8"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204603.m3u8"
       },
       {
-        "name": "CCTV-14 少儿 (FHD)",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8"
+        "name": "CCTV-14 少儿",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204403.m3u8"
       },
       {
-        "name": "CCTV-15 音乐 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8"
+        "name": "CCTV-15 音乐",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000205003.m3u8"
       },
       {
-        "name": "CCTV 4K",
-        "url": "http://39.134.185.69/PLTV/88888888/224/3221226758/index.m3u8"
+        "name": "CCTV-17 农业农村",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000204203.m3u8"
+      },
+      {
+        "name": "CGTN",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2001656803.m3u8"
+      },
+      {
+        "name": "CGTN 记录",
+        "url": "http://live.cgtn.com/1000d/prog_index.m3u8"
       }
     ]
   },
@@ -76,16 +89,16 @@
     "name": "内地卫视",
     "tvs": [
       {
-        "name": "北京卫视 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8"
+        "name": "北京卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000272103.m3u8"
       },
       {
-        "name": "天津卫视 (FHD)",
-        "url": "http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8"
+        "name": "天津卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8"
       },
       {
-        "name": "河北卫视 (qHD)",
-        "url": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8"
+        "name": "河北卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293403.m3u8"
       },
       {
         "name": "山西卫视",
@@ -93,107 +106,111 @@
       },
       {
         "name": "内蒙古卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8"
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8"
       },
       {
         "name": "辽宁卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225619/index.m3u8"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000281303.m3u8"
       },
       {
         "name": "吉林卫视",
-        "url": "http://39.134.65.65:80/wh7f454c46tw1933119416_353065951/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=125"
+        "url": "http://stream4.jlntv.cn/test2/sd/live.m3u8"
       },
       {
-        "name": "黑龙江卫视 (FHD)",
-        "url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8"
+        "name": "黑龙江卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293903.m3u8"
       },
       {
-        "name": "东方卫视 (FHD)",
-        "url": "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8"
+        "name": "东方卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292403.m3u8"
       },
       {
-        "name": "江苏卫视 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8"
+        "name": "江苏卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295603.m3u8"
       },
       {
-        "name": "浙江卫视 (FHD)",
-        "url": "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8"
+        "name": "浙江卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295503.m3u8"
       },
       {
-        "name": "安徽卫视 (FHD)",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225727/index.m3u8"
+        "name": "安徽卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000298003.m3u8"
       },
       {
         "name": "东南卫视",
-        "url": "http://39.134.65.76:80/wh7f454c46tw1932323481_-1193436131/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=131"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292503.m3u8"
       },
       {
-        "name": "江西卫视 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8"
+        "name": "厦门卫视",
+        "url": "http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8"
       },
       {
-        "name": "山东卫视 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8"
+        "name": "江西卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294103.m3u8"
+      },
+      {
+        "name": "山东卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294803.m3u8"
       },
       {
         "name": "河南卫视",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296103.m3u8"
       },
       {
-        "name": "湖北卫视 (FHD)",
-        "url": "http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8"
+        "name": "湖北卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294503.m3u8"
       },
       {
-        "name": "湖南卫视 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8"
+        "name": "湖南卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000296203.m3u8"
       },
       {
-        "name": "广东卫视 (FHD)",
-        "url": "http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8"
+        "name": "广东卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292703.m3u8"
       },
       {
-        "name": "深圳卫视 (FHD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8"
+        "name": "深圳卫视",
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000292203.m3u8"
       },
       {
         "name": "广西卫视",
-        "url": "http://39.134.65.80:80/wh7f454c46tw1932316794_-962263929/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=124"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8"
       },
       {
         "name": "海南卫视",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000291503.m3u8"
       },
       {
         "name": "重庆卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225618/index.m3u8"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000297803.m3u8"
       },
       {
         "name": "四川卫视",
-        "url": "http://ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295003.m3u8"
       },
       {
         "name": "贵州卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225626/index.m3u8"
+        "url": "http://119.28.164.24/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293303.m3u8"
       },
       {
         "name": "云南卫视",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8"
+        "url": "http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8"
       },
       {
         "name": "西藏卫视",
-        "url": "http://39.134.65.72:80/wh7f454c46tw1933117189_889786975/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=132"
+        "url": "http://112.17.40.140/PLTV/88888888/224/3221226160/index.m3u8"
       },
       {
         "name": "陕西卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225625/index.m3u8"
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225850/1.m3u8"
       },
       {
         "name": "甘肃卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225633/index.m3u8"
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225845/1.m3u8"
       },
       {
         "name": "青海卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225628/index.m3u8"
+        "url": "http://live.geermurmt.com/qhws/sd/live.m3u8"
       },
       {
         "name": "宁夏卫视",
@@ -201,32 +218,32 @@
       },
       {
         "name": "新疆卫视",
-        "url": "http://111.40.205.87/PLTV/88888888/224/3221225635/index.m3u8"
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8"
       }
     ]
   },
   {
-    "name": "港澳频道",
+    "name": "港澳台频道",
     "tvs": [
       {
-        "name": "凤凰中文 (HD)",
-        "url": "http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8"
+        "name": "星空卫视",
+        "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
       },
       {
-        "name": "凤凰资讯 (HD)",
-        "url": "http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8"
+        "name": "凤凰中文",
+        "url": "http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8"
       },
       {
-        "name": "凤凰香港 (HD)",
-        "url": "http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8"
+        "name": "凤凰资讯",
+        "url": "http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8"
+      },
+      {
+        "name": "凤凰香港",
+        "url": "http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8"
       },
       {
         "name": "香港卫视",
         "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
-      },
-      {
-        "name": "星空卫视",
-        "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
       },
       {
         "name": "澳门卫视",
@@ -238,7 +255,23 @@
       },
       {
         "name": "澳门莲花",
-        "url": "rtmp://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c"
+        "url": "http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8"
+      },
+      {
+        "name": "中视",
+        "url": "http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8"
+      },
+      {
+        "name": "中天娱乐台",
+        "url": "http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8"
+      },
+      {
+        "name": "中天综合台",
+        "url": "http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8"
+      },
+      {
+        "name": "中天新闻台",
+        "url": "http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8"
       }
     ]
   }
