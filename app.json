@@ -22,8 +22,8 @@
       "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release12.apk",
       "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release13.apk"
     ],
-    "appLength": 12660403,
-    "appSha1": "fa4d4fb6a5944b17e81299f298eb5d1913e07f65",
+    "appLength": 12626205,
+    "appSha1": "5c4350e25215f20ec55b80396bcc9973590a381b",
     "updateLogs": [
       "1. 修复上版本的遗留bug以及对一些细节进行优化"
     ],
