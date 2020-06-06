@@ -22,8 +22,8 @@
       "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release12.apk",
       "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release13.apk"
     ],
-    "appLength": 12622879,
-    "appSha1": "174ac8a4535813c671263e5f2bdaf3e741981fff",
+    "appLength": 12634655,
+    "appSha1": "1f2718d85a129a722977369e6ad554913e794f74",
     "updateLogs": [
       "1. 修复在视频缓冲期间，音频后台播放控制通知显示的剩余时长与视频实际所剩时长不一致的bug",
       "2. 解决其它应用在很多时候无法选择此应用进行播放音、视频的问题"
