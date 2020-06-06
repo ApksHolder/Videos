@@ -164,12 +164,16 @@
         "url": "http://112.50.243.8/PLTV/88888888/224/3221225942/1.m3u8"
       },
       {
+        "name": "广东珠江（IjkPlayer可播）",
+        "url": "http://url.cn/J0Yh4Phy"
+      },
+      {
         "name": "深圳卫视",
         "url": "http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8"
       },
       {
         "name": "广西卫视",
-        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8"
+        "url": "http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8"
       },
       {
         "name": "海南卫视",
@@ -204,8 +208,8 @@
         "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8"
       },
       {
-        "name": "青海卫视（IjkPlayer可播）",
-        "url": "http://suo.im/5unhRN"
+        "name": "青海卫视",
+        "url": "http://live.geermurmt.com/qhws/sd/live.m3u8"
       },
       {
         "name": "宁夏卫视",
