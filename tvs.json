@@ -3,10 +3,6 @@
     "name": "CCTV",
     "tvs": [
       {
-        "name": "CCTV 4K（IjkPlayer可播）",
-        "url": "http://suo.im/5Bejo0"
-      },
-      {
         "name": "CCTV-1 综合",
         "url": "http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8"
       },
@@ -60,7 +56,7 @@
       },
       {
         "name": "CCTV-13 新闻",
-        "url": "http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8"
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8"
       },
       {
         "name": "CCTV-14 少儿",
@@ -173,7 +169,7 @@
       },
       {
         "name": "广西卫视",
-        "url": "http://mobilelive.gxtv.cn/live/nn_live1004/playlist.m3u8"
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8"
       },
       {
         "name": "海南卫视",
