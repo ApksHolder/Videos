@@ -1,0 +1,33 @@
+{
+  "appInfos": {
+    "appName": "视频",
+    "applicationId": "com.liuzhenlin.videos",
+    "minSdkVersion": 14,
+    "targetSdkVersion": 29,
+    "versionCode": 39,
+    "versionName": "1.9.3",
+    "appLink": "https://raw.githubusercontent.com/ApksHolder/Videos/release/app-release.apk",
+    "appPartLinks": [
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release1.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release2.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release3.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release4.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release5.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release6.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release7.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release8.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release9.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release10.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release11.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release12.apk",
+      "https://gitee.com/lzl_s/Videos-Server/raw/master/app/Android/app-release13.apk"
+    ],
+    "appLength": 12504536,
+    "appSha1": "46cbb5d30a528ae5c86ac26369016be2dd606866",
+    "updateLogs": [
+      "1. 修复意见反馈使用的发送方代理邮箱因存在安全性问题被紧急替换后导致的反馈信息无法向外发送的问题"
+    ],
+    "promptDialogAnchorActivityClsName": "com.liuzhenlin.videos.view.activity.MainActivity"
+  },
+  "author": "刘振林"
+}

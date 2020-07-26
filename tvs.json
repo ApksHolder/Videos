@@ -1,0 +1,273 @@
+[
+  {
+    "name": "CCTV",
+    "tvs": [
+      {
+        "name": "CCTV-1 综合",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8"
+      },
+      {
+        "name": "CCTV-2 财经",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8"
+      },
+      {
+        "name": "CCTV-3 综艺",
+        "url": "http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8"
+      },
+      {
+        "name": "CCTV-4 中文国际",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8"
+      },
+      {
+        "name": "CCTV-5 体育",
+        "url": "http://223.110.241.130:6610/gitv/live1/G_CCTV-5-HQ/.m3u8"
+      },
+      {
+        "name": "CCTV-5+ 体育赛事",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8"
+      },
+      {
+        "name": "CCTV-6 电影",
+        "url": "http://223.110.241.130:6610/gitv/live1/G_CCTV-6-HQ/.m3u8"
+      },
+      {
+        "name": "CCTV-7 国防军事",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8"
+      },
+      {
+        "name": "CCTV-8 电视剧",
+        "url": "http://223.110.241.130:6610/gitv/live1/G_CCTV-8-HQ/.m3u8"
+      },
+      {
+        "name": "CCTV-9 记录",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8"
+      },
+      {
+        "name": "CCTV-10 科教",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8"
+      },
+      {
+        "name": "CCTV-11 戏曲",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8"
+      },
+      {
+        "name": "CCTV-12 社会与法",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8"
+      },
+      {
+        "name": "CCTV-13 新闻",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8"
+      },
+      {
+        "name": "CCTV-14 少儿",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8"
+      },
+      {
+        "name": "CCTV-15 音乐",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8"
+      },
+      {
+        "name": "CCTV-17 农业农村",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8"
+      },
+      {
+        "name": "CGTN",
+        "url": "http://live.cgtn.com/1000/prog_index.m3u8"
+      },
+      {
+        "name": "CGTN 记录",
+        "url": "http://live.cgtn.com/1000d/prog_index.m3u8"
+      }
+    ]
+  },
+  {
+    "name": "内地卫视",
+    "tvs": [
+      {
+        "name": "北京卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8"
+      },
+      {
+        "name": "天津卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8"
+      },
+      {
+        "name": "河北卫视",
+        "url": "http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+      },
+      {
+        "name": "山西卫视",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8"
+      },
+      {
+        "name": "内蒙古卫视",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8"
+      },
+      {
+        "name": "辽宁卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8"
+      },
+      {
+        "name": "吉林卫视",
+        "url": "http://stream4.jlntv.cn/test2/sd/live.m3u8"
+      },
+      {
+        "name": "黑龙江卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225940/1.m3u8"
+      },
+      {
+        "name": "东方卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8"
+      },
+      {
+        "name": "江苏卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225930/1.m3u8"
+      },
+      {
+        "name": "浙江卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8"
+      },
+      {
+        "name": "安徽卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225945/1.m3u8"
+      },
+      {
+        "name": "东南卫视",
+        "url": "http://101.71.255.229:6610/zjhs/2/10093/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+      },
+      {
+        "name": "江西卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225834/1.m3u8"
+      },
+      {
+        "name": "山东卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225943/1.m3u8"
+      },
+      {
+        "name": "河南卫视",
+        "url": "http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+      },
+      {
+        "name": "湖北卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8"
+      },
+      {
+        "name": "湖南卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8"
+      },
+      {
+        "name": "广东卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225942/1.m3u8"
+      },
+      {
+        "name": "广东珠江（IjkPlayer可播）",
+        "url": "http://url.cn/J0Yh4Phy"
+      },
+      {
+        "name": "深圳卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8"
+      },
+      {
+        "name": "广西卫视",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8"
+      },
+      {
+        "name": "海南卫视",
+        "url": "http://livelyws.chinamcache.com/lyws/zb01.m3u8?auth_key=1593241343-0-0-90b80e74457c94b2015f9428a1cb9b0e"
+      },
+      {
+        "name": "重庆卫视",
+        "url": "http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8"
+      },
+      {
+        "name": "四川卫视",
+        "url": "http://101.71.255.229:6610/zjhs/2/10099/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+      },
+      {
+        "name": "贵州卫视",
+        "url": "http://101.71.255.229:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com"
+      },
+      {
+        "name": "云南卫视",
+        "url": "http://39.130.218.239:6610/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8"
+      },
+      {
+        "name": "西藏卫视",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8"
+      },
+      {
+        "name": "陕西卫视",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8"
+      },
+      {
+        "name": "甘肃卫视",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8"
+      },
+      {
+        "name": "青海卫视",
+        "url": "http://live.geermurmt.com/qhws/sd/live.m3u8"
+      },
+      {
+        "name": "宁夏卫视",
+        "url": "http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8"
+      },
+      {
+        "name": "新疆卫视（IjkPlayer可播）",
+        "url": "http://suo.im/6kgyEC"
+      }
+    ]
+  },
+  {
+    "name": "港澳台频道",
+    "tvs": [
+      {
+        "name": "星空卫视",
+        "url": "rtmp://ivi.bupt.edu.cn:1935/livetv/startv"
+      },
+      {
+        "name": "凤凰中文",
+        "url": "http://t.cn/A6AmCFWY"
+      },
+      {
+        "name": "凤凰资讯",
+        "url": "http://t.cn/A6AmCuyl"
+      },
+      {
+        "name": "凤凰香港",
+        "url": "http://t.cn/A6AmC0sR"
+      },
+      {
+        "name": "香港卫视",
+        "url": "http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8"
+      },
+      {
+        "name": "澳门卫视",
+        "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+      },
+      {
+        "name": "澳亚卫视",
+        "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+      },
+      {
+        "name": "澳门莲花",
+        "url": "http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8"
+      },
+      {
+        "name": "中视",
+        "url": "http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8"
+      },
+      {
+        "name": "中天娱乐台",
+        "url": "http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8"
+      },
+      {
+        "name": "中天综合台",
+        "url": "http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8"
+      },
+      {
+        "name": "中天新闻台",
+        "url": "http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8"
+      }
+    ]
+  }
+]
